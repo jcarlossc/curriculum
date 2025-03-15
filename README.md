@@ -48,16 +48,15 @@ Profissional autônomo – Recife, PE
 Colaborei com a equipe de desenvolvimento do front-end para manipulação do protótipo utilizando metodologias ágeis (Scrum).
 
 ## Certificações
-https://github.com/jcarlossc/certificados
+*https://github.com/jcarlossc/certificados
 
 ## Idiomas
-Português: Nativo.
-Inglês: Intermediário (leitura técnica).
-Francês: Intermediário (leitura técnica).
+* Português: Nativo.
+* Inglês: Intermediário (leitura técnica).
+* Francês: Intermediário (leitura técnica).
 
 ## Atividades Complementares
-Participação no grupo de estudos de desenvolvimento de software na faculdade.
-Experiência acadêmica e em projetos pessoais na criação de aplicações desktop e web.
-Conhecimentos do pacote Microsoft Office.
-Montagem e manutenção de computadores.
+* Participação no grupo de estudos de desenvolvimento de software na faculdade.
+* Conhecimentos do pacote Microsoft Office.
+* Montagem e manutenção de computadores.
 
