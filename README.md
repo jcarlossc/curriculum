@@ -26,7 +26,7 @@ Iniciar minha carreira como Programador Júnior Java, aplicando e expandindo meu
 * Marcação e estilização: HTML, CSS, Pré-processadores css, Bootstrap.
 * Linguagens de Programação: Java, Python, Php, SQL, JavaScript.
 * Frameworks: Spring Boot, Java Collection, JPA, Junit.
-* Banco de Dados: MySQL, MongoDB.
+* Banco de Dados: MySQL.
 * Ferramentas e IDEs: NetBeans, Eclipse, Visual Studio Code e Sublime Text.
 * Prototipação Eletrônica: Arduino e ESP32.
 * Versionamento: Git/GitHub.
