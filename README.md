@@ -27,7 +27,7 @@ buscando aprendizado constante em tecnologias e práticas de mercado.
 ## Habilidades Técnicas
 * Marcação e estilização: HTML, Css e Bootstrap.
 * Linguagens de Programação: Foco em Python, Php, SQL, JavaScript.
-* Frameworks: Bottlet, Flask.
+* Frameworks: Bottlet e Flask.
 * Banco de Dados: MySQL.
 * Ferramentas e IDEs: Visual Studio Code e Sublime Text.
 * Prototipação Eletrônica: Arduino e ESP32.
