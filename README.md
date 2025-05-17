@@ -1,14 +1,16 @@
 # Currículum
 
 ## JOSÉ CARLOS SOARES DA COSTA
-* Bairro de Água Fria | 52211-171 | Recife | PE 
+* Rua José Amaral | Bairro de Água Fria | 52211-171 | Recife | PE 
 * 81 99712-9140 
 * josecscosta@fac.pe.senac.br 
 * https://www.linkedin.com/in/jose-carlos-669252149/                        
 * https://github.com/jcarlossc
 
 ## Objetivo Profissional
-Iniciar minha carreira como Programador Júnior Java, aplicando e expandindo meus conhecimentos em desenvolvimento de software, contribuindo para o sucesso de projetos e buscando aprendizado constante em tecnologias e práticas de mercado.
+Iniciar minha carreira como Programador Júnior Python, aplicando e expandindo meus
+conhecimentos em desenvolvimento de software, contribuindo para o sucesso de projetos e
+buscando aprendizado constante em tecnologias e práticas de mercado.
 
 ## Formação Acadêmica
 ### Graduação em Análise e Desenvolvimento de Sistemas
@@ -23,11 +25,11 @@ Iniciar minha carreira como Programador Júnior Java, aplicando e expandindo meu
 
 
 ## Habilidades Técnicas
-* Marcação e estilização: HTML, CSS, Pré-processadores css, Bootstrap.
-* Linguagens de Programação: Python, Php, SQL, JavaScript.
-* Frameworks: Spring Boot, Java Collection, JPA, Junit.
+* Marcação e estilização: HTML, Css e Bootstrap.
+* Linguagens de Programação: Foco em Python, Php, SQL, JavaScript.
+* Frameworks: Bottlet, Flask.
 * Banco de Dados: MySQL.
-* Ferramentas e IDEs: NetBeans, Eclipse, Visual Studio Code e Sublime Text.
+* Ferramentas e IDEs: Visual Studio Code e Sublime Text.
 * Prototipação Eletrônica: Arduino e ESP32.
 * Versionamento: Git/GitHub.
 * Computação Gráfica: Photoshop, Gimp, Inkscape, Blender e 3ds Max.
