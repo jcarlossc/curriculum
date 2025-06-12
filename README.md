@@ -1,7 +1,7 @@
 # Currículum
 
 ## JOSÉ CARLOS SOARES DA COSTA
-* Rua José Amaral | Bairro de Água Fria | 52211-171 | Recife | PE 
+* Bairro de Água Fria | Recife | PE 
 * 81 99712-9140 
 * josecscosta@fac.pe.senac.br 
 * https://www.linkedin.com/in/jose-carlos-669252149/                        
