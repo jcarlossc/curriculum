@@ -3,9 +3,10 @@
 ## JOSÉ CARLOS SOARES DA COSTA
 * Bairro de Água Fria | Recife | PE 
 * 81 99712-9140 
-* josecscosta@fac.pe.senac.br 
-* https://www.linkedin.com/in/jose-carlos-669252149/                        
+* jcarlossc1977@gmail.com
+* https://www.linkedin.com/in/carlos-da-costa-669252149/                    
 * https://github.com/jcarlossc
+* https://www.kaggle.com/jcarlossc
 
 ## Objetivo Profissional
 Iniciar minha carreira como Programador Júnior Python, aplicando e expandindo meus
@@ -50,7 +51,7 @@ Profissional autônomo – Recife, PE
 Colaborei com a equipe de desenvolvimento do front-end para manipulação do protótipo utilizando metodologias ágeis (Scrum).
 
 ## Certificações
-*https://github.com/jcarlossc/certificados
+https://github.com/jcarlossc/certificados
 
 ## Idiomas
 * Português: Nativo.
