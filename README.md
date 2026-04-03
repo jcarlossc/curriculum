@@ -1,74 +1,84 @@
 ## JOSÉ CARLOS SOARES DA COSTA
-* Recife | PE 
-* 81 99712-9140 
-* jcarlossc1977@gmail.com
-* https://www.linkedin.com/in/carlos-da-costa-669252149/                    
-* https://github.com/jcarlossc
-* https://www.kaggle.com/jcarlossc
-* https://portfolio-carlos-costa.netlify.app/
+* Recife, PE - Brasil<br>
+* Telefone: +55 81 99712 9140<br>
+* Telegram: @jcarlossc<br>
+* Pypi: https://pypi.org/user/jcarlossc/<br>
+* Blogger linguagem R: [https://informaticus77-r.blogspot.com/](https://informaticus77-r.blogspot.com/)<br>
+* Blogger linguagem Python: [https://informaticus77-python.blogspot.com/](https://informaticus77-python.blogspot.com/)<br>
+* Email: jcarlossc1977@gmail.com<br>
+* LinkedIn: https://www.linkedin.com/in/carlos-da-costa-669252149/<br>
+* GitHub: https://github.com/jcarlossc<br>
+* Kaggle: https://www.kaggle.com/jcarlossc/  
+* Twitter/X: https://x.com/jcarlossc1977<br>
 
-## Objetivo Profissional
-Profissional em transição de carreira com sólida experiência em logística em construção
-civil, buscando oportunidade como desenvolvedor Python júnior. Com forte base em
-lógica de programação, orientação a objetos e desenvolvimento web, aplico as melhores
-práticas de engenharia de software em projetos pessoais e estudos contínuos.
-Comprometido com qualidade, clareza de código e aprendizado constante.
+## Resumo Profissional
+
+Profissional em transição de carreira para a área de Dados, com sólida formação prática em análise, tratamento e visualização de dados. 
+Experiência no desenvolvimento de pipelines de dados (ETL), consumo de APIs e criação de dashboards analíticos.
+Domínio de ferramentas e linguagens como Python, R, Power BI, Tableau e QlikView, aplicando conceitos de estatística descritiva e inferencial, 
+modelagem estatística e geração de insights orientados a negócio.
+Perfil analítico, com foco em qualidade de dados, automação de processos e apoio à tomada de decisão baseada em dados.
 
 ## Formação Acadêmica
 ### Graduação em Análise e Desenvolvimento de Sistemas
 Faculdade Senac – Recife, PE.<br>
 Conclusão: Julho/2022.<br>
-* Principais disciplinas: Algoritmo e Programação, Estruturas de Dados, Programação Orientada a Objetos, Bancos de Dados, Engenharia de Software.
+
 ### Técnico em Informática - Desenvolvimento de Sistemas
 Escola Técnica Estadual Professor Agamemnon Magalhães – Recife, PE.<br>
 Conclusão: Outubro/2016.<br>
-* Principais módulos: Web Design (Processamento de imagens, Ilustração vetorial, Multimídia, animações, entre outros).
-* Desenvolvimento Web (Lógica de programação, Banco de dados, Orientação a objetos, Php, entre outros).
 
 ## Projetos em Destaque
-**Portfólio Pessoal** – Ver https://portfolio-carlos-costa.netlify.app/<br>
-Projetos web, scripts de automação, visualizações de dados e APIsv<br>
-Publicado com design responsivo e organização profissional<br>
-**Html, Css, Bootstrap, Git, Github, VS Code, Netlify, PhotoShop e Windows 10**<br>
+**ibge-api-report-r** – Ver: <a href="https://github.com/jcarlossc/ibge-api-report-r/" target="_blank">https://github.com/jcarlossc/ibge-api-report-r/</a><br>
+Pipeline baseado em R para consumo de API IBGE, processamento e implementação de relatório Estatístico em PDF.
 
-**Validador de Dados com Strategy** – https://github.com/jcarlossc/validador-regex-python<br>
-Aplicação de Design Patterns para validação de CPF, CNPJ, e-mails e datas<br>
-Testes automatizados com unittest e tipagem estática<br>
-**Python 3, módulo re, POO, Design Patterns Strategy, Git, Github e Windows 10**<br>
+**accident-analytics-pipeline-python** – Ver: <a href="https://github.com/jcarlossc/accident-analytics-pipeline-python/" target="_blank">https://github.com/jcarlossc/accident-analytics-pipeline-python</a><br>
+Pipeline baseado em Python para ingestão, padronização, limpeza, validação e registro de dados.
 
-**Análises com Pandas e APIs Públicas** – https://www.kaggle.com/jcarlossc/code<br>
-Extração de dados de APIs RESTful, limpeza e análise com Pandas<br>
-Visualizações com matplotlib<br>
-**Python 3, Pandas, Requests, Matplotlib, Seaborn, SQLite, SQL e Numpy**<br>
+**accident-analytics-pipeline-r** – Ver: <a href="https://github.com/jcarlossc/accident-analytics-pipeline-r/" target="_blank">https://github.com/jcarlossc/accident-analytics-pipeline-r/</a><br>
+Pipeline baseado em R para ingestão, padronização, limpeza, validação e registro de dados.
 
-## Tecnologias e Ferramentas
-* **Marcação e estilização:** HTML, Css e Bootstrap.
-* **Linguagens de Programação:** Foco em Python, Php, SQL, JavaScript.
-* **Frameworks:** Bottlet e Flask.
-* **Banco de Dados:** MySQL e SQLite.
-* **Ferramentas e IDEs:** Visual Studio Code, Sublime Text e Jupyter.
-* **Prototipação Eletrônica:** Arduino e ESP32.
-* **Versionamento:** Git e GitHub.
-* **Computação Gráfica:** Photoshop, Gimp, Inkscape, Blender e 3ds Max.
-* **Padrões:** Programação Orientada a Objetos, SOLID, Design Patterns, RESTful, APIs, Design Responsivo, Controle de Versão e Integração e Implantação contínua.
+## Competências Técnicas
+### Linguagens e Ferramentas:
+* Python (Pandas, Requests, APIs, ETL)
+* R (Análise estatística, R Markdown)
+* SQL (consultas, manipulação de dados)
+* Power BI | Tableau | QlikView
 
-## Experiência Profissional
-**Construção e Reformas em geral**<br>
-Profissional autônomo – Recife, PE.<br>
-Outubro/2000 – Dezembro/2016.<br>
-* Gerenciamento de logística de materiais e equipes em obras e reformas.<br>
-* Responsável por processos de controle, planejamento e execução de tarefas<br>
+### Análise de Dados:
+* Estatística descritiva e inferencial
+* Modelos estatísticos básicos
+* Interpretação de métricas e indicadores (KPIs)
+* Análise exploratória de dados (EDA)
+
+### Engenharia e Tratamento de Dados:
+* Pipelines de dados (ETL)
+* Consumo e integração de APIs
+* Limpeza e padronização de dados
+* Validação e controle de qualidade de dados
+
+### Visualização e Reporting:
+* Criação de dashboards interativos
+* Relatórios analíticos (R Markdown, Python)
+* Storytelling com dadosua.
+
+## Experiência Profissional Anterior
+### Profissional Autônomo – Logística em Construção e Reformas<br>
+Período: Outubro/2000 – Dezembro/2020.<br>
+* Planejamento e controle de processos logísticos
+* Gestão de recursos e prazos
+* Tomada de decisão baseada em análise prática de dados operacionais
+* Organização de informações e otimização de processos
 
 **Técnico em Informática**<br>
-Profissional autônomo – Recife, PE.<br>
+### Profissional autônomo – Recife, PE.<br>
 Janeiro/2017 – Fevereiro/2020.<br>
 * Instalação e configuração e manutenção de sistemas operacionais Windows e Linux<br>
-(Ubuntu e Lubuntu).<br>
 * Instalação e configuração de periféricos em geral.<br>
 * Instalação e configuração de redes de computadores.<br>
 
 ## Certificações
-https://github.com/jcarlossc/certificados
+<a href="https://github.com/jcarlossc/certificados/" target="_blank">https://github.com/jcarlossc/certificados/</a>
 
 ## Idiomas
 * Inglês: Intermediário (leitura técnica).
