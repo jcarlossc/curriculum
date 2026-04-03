@@ -70,9 +70,9 @@ Período: Outubro/2000 – Dezembro/2020.<br>
 * Tomada de decisão baseada em análise prática de dados operacionais
 * Organização de informações e otimização de processos
 
-**Técnico em Informática**<br>
+## Técnico em Informática
 ### Profissional autônomo – Recife, PE.<br>
-Janeiro/2017 – Fevereiro/2020.<br>
+Período: Janeiro/2020<br>
 * Instalação e configuração e manutenção de sistemas operacionais Windows e Linux<br>
 * Instalação e configuração de periféricos em geral.<br>
 * Instalação e configuração de redes de computadores.<br>
